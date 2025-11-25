@@ -1,5 +1,5 @@
 # 💫 About Me:
- 💻 Full-Stack Developer: **PHP / Laravel / React**<br> 🤖 AI & ML Developer: Python, NLP, Deep Learning, LLMs<br> 🧩 Strong interest in problem-solving & clean architecture<br> 🔧 Love building full applications: backend → frontend → AI → deployment<br> 📚 Always learning: MLOps, RAG, APIs, DevOps basics (Docker, CI/CD)<br> 🌍 Open to collaboration on web, AI, or hybrid projects
+ 💻 Full-Stack Developer: **PHP / Laravel / Python /React**<br> 🤖 AI & ML Developer: Python, NLP, Deep Learning, LLMs<br> 🧩 Strong interest in problem-solving & clean architecture<br> 🔧 Love building full applications: backend → frontend → AI → deployment<br> 📚 Always learning: MLOps, RAG, APIs, DevOps basics (Docker, CI/CD)<br> 🌍 Open to collaboration on web, AI, or hybrid projects
 
 
 # 💻 Tech Stack:
